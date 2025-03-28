@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diasaintthere" target="blank"><img src="https://img.shields.io/twitter/follow/diasaintthere?logo=twitter&style=for-the-badge" alt="diasaintthere" /></a> </p>
 
-- 🔭 I’m currently working on [FdF](https://github.com/sboukiou/fdf)
+- 🔭 I’m currently working on [Philosophers](https://github.com/sboukiou/philosophers)
 
 - 💬 Ask me about **Vim/Neovim**
 
