@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vim/Neovim**
 
-- 📫 How to reach me **boukdsaid@gmail.com**
+- 📫 How to reach me **said.perso@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
