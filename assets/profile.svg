@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-labelledby="title description">
+  <title id="title">Said Boukiou</title>
+  <desc id="description">Software engineering student. C, C++, and Lua.</desc>
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0v22" fill="none" stroke="#243548" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="878" height="298" rx="22" fill="#101822" stroke="#34475c" stroke-width="2"/>
+  <path d="M2 57h876M2 254h876" stroke="#34475c"/>
+  <circle cx="29" cy="29" r="5" fill="#ff827a"/>
+  <circle cx="47" cy="29" r="5" fill="#f1c779"/>
+  <circle cx="65" cy="29" r="5" fill="#8ce4bd"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="92" y="35" fill="#a6b8cc" font-size="17">sboukiou / README.md</text>
+    <g fill="#8298ad" font-size="15">
+      <text x="29" y="113">01</text>
+      <text x="29" y="173">02</text>
+      <text x="29" y="222">03</text>
+    </g>
+    <path d="M62 78v154" stroke="#34475c"/>
+    <text x="82" y="117" fill="#8ce4bd" font-size="27">&gt; whoami</text>
+    <text x="79" y="180" fill="#f3f7fb" font-family="system-ui, sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Said Boukiou</text>
+    <text x="82" y="223" fill="#b3c5d8" font-size="20">Software engineering student</text>
+    <text x="29" y="282" fill="#8ce4bd" font-size="16">C  /  C++  /  Lua</text>
+  </g>
+  <rect x="585" y="75" width="269" height="159" rx="12" fill="url(#grid)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m667 126-27 29 27 29m105-58 27 29-27 29" stroke="#8ce4bd" stroke-width="7"/>
+    <path d="m737 112-37 86" stroke="#f1c779" stroke-width="7"/>
+    <path d="M602 99V86h13m220 13V86h-13M602 210v13h13m220-13v13h-13" stroke="#536c84" stroke-width="2"/>
+  </g>
+</svg>
