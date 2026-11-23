@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.svg" alt="Said Boukiou, software engineering student working with C, C++, and Lua" width="880">
+  <img src="assets/profile.svg" alt="Said, software engineering student working with C, C++, and Lua" width="880">
 </p>
 
 <p align="center">
@@ -12,4 +12,4 @@
 
 ## `git log`
 
-[![GitHub contribution streak for sboukiou](https://streak-stats.demolab.com/?user=sboukiou&background=101822&border=34475C&stroke=34475C&ring=8CE4BD&fire=F1C779&currStreakNum=F3F7FB&sideNums=F3F7FB&currStreakLabel=8CE4BD&sideLabels=B3C5D8&dates=A6B8CC)](https://github.com/sboukiou)
+[![GitHub contribution streak for sboukiou](https://streak-stats.demolab.com/?user=sboukiou&background=1A1B26&border=414868&stroke=414868&ring=9ECE6A&fire=E0AF68&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=9ECE6A&sideLabels=A9B1D6&dates=A9B1D6)](https://github.com/sboukiou)

@@ -1,33 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-labelledby="title description">
-  <title id="title">Said Boukiou</title>
-  <desc id="description">Software engineering student. C, C++, and Lua.</desc>
-  <defs>
-    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
-      <path d="M22 0H0v22" fill="none" stroke="#243548" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect x="1" y="1" width="878" height="298" rx="22" fill="#101822" stroke="#34475c" stroke-width="2"/>
-  <path d="M2 57h876M2 254h876" stroke="#34475c"/>
-  <circle cx="29" cy="29" r="5" fill="#ff827a"/>
-  <circle cx="47" cy="29" r="5" fill="#f1c779"/>
-  <circle cx="65" cy="29" r="5" fill="#8ce4bd"/>
+  <title id="title">Said</title>
+  <desc id="description">Software engineering student. C, C++, and Lua. Styled as a Neovim buffer.</desc>
+  <rect x="1" y="1" width="878" height="298" rx="12" fill="#1a1b26" stroke="#414868" stroke-width="2"/>
+  <path d="M2 45h876M2 244h876M2 274h876" stroke="#414868"/>
+  <rect x="3" y="112" width="874" height="38" fill="#24283b"/>
+  <rect x="83" y="120" width="15" height="23" fill="#9ece6a"/>
+  <path d="M66 46v198" stroke="#414868"/>
+  <rect x="3" y="245" width="105" height="28" fill="#9ece6a"/>
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
-    <text x="92" y="35" fill="#a6b8cc" font-size="17">sboukiou / README.md</text>
-    <g fill="#8298ad" font-size="15">
-      <text x="29" y="113">01</text>
-      <text x="29" y="173">02</text>
-      <text x="29" y="222">03</text>
-    </g>
-    <path d="M62 78v154" stroke="#34475c"/>
-    <text x="82" y="117" fill="#8ce4bd" font-size="27">&gt; whoami</text>
-    <text x="79" y="180" fill="#f3f7fb" font-family="system-ui, sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Said Boukiou</text>
-    <text x="82" y="223" fill="#b3c5d8" font-size="20">Software engineering student</text>
-    <text x="29" y="282" fill="#8ce4bd" font-size="16">C  /  C++  /  Lua</text>
-  </g>
-  <rect x="585" y="75" width="269" height="159" rx="12" fill="url(#grid)"/>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m667 126-27 29 27 29m105-58 27 29-27 29" stroke="#8ce4bd" stroke-width="7"/>
-    <path d="m737 112-37 86" stroke="#f1c779" stroke-width="7"/>
-    <path d="M602 99V86h13m220 13V86h-13M602 210v13h13m220-13v13h-13" stroke="#536c84" stroke-width="2"/>
+    <text x="24" y="29" fill="#9ece6a" font-size="16" font-weight="700">Neovim</text>
+    <text x="130" y="29" fill="#c0caf5" font-size="16">README.md</text>
+    <text x="32" y="95" fill="#8993b8" font-size="16">1</text>
+    <text x="32" y="137" fill="#e0af68" font-size="16">2</text>
+    <text x="32" y="180" fill="#8993b8" font-size="16">1</text>
+    <text x="32" y="220" fill="#7aa2f7" font-size="18">~</text>
+    <text x="83" y="95" fill="#8993b8" font-size="18">&lt;!-- @sboukiou --&gt;</text>
+    <text x="84" y="139" fill="#1a1b26" font-size="22" font-weight="700">#</text>
+    <text x="109" y="140" fill="#c0caf5" font-size="29" font-weight="700">Said</text>
+    <text x="83" y="180" fill="#c0caf5" font-size="19">Software engineering student</text>
+    <text x="24" y="265" fill="#1a1b26" font-size="16" font-weight="700">NORMAL</text>
+    <text x="124" y="265" fill="#a9b1d6" font-size="15">C / C++ / Lua</text>
+    <text x="853" y="265" text-anchor="end" fill="#a9b1d6" font-size="15">markdown  2:1</text>
+    <text x="24" y="291" fill="#8993b8" font-size="13">"README.md" 3L</text>
   </g>
 </svg>
